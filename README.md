@@ -17,8 +17,6 @@ This is a starter project to [build an augmented reality app with Root insurance
 
 Watch the [walkthrough screencast](https://drive.google.com/a/fireid.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view) detailing how to set up Unity and Vuforia, or jump to your area of concern:
 
-https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=1m20s
-
 1. Register for Vuforia [00:15](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=0m15s)
 1. Overview of Unity [01:27]((https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=1m17s))
 1. Activate Vuforia License Key in Unity [02:10]((https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=2m10s))
@@ -52,9 +50,9 @@ Great, you got this far. You're almost there!
  - "My external USB webcam not listed in Vuforia." This can be caused by version migration issues, or when the webcam was unplugged while starting Unity. 
  - "Vuforia only tracks one target at a time." There is a default limit of 1 tracking targets.
  
-![Where to change maximum simultatneous image tracking](image.png)
+![Where to change maximum simultaneous image tracking](docs/images/max-tracking-screenshot.png)
 
- ## Helpful Hints
+## Helpful Hints
  
  - Right-click inside the hierachy tree (on the left) to quickly add new nodes.
  - To rotate the viewport, hold <kbd>Alt</kbd> (on PC) or <kbd>Option</kbd> (on Mac) while dragging.
