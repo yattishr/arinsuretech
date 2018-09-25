@@ -6,7 +6,7 @@ This is a starter project to [build an augmented reality app with Root insurance
 
 1. Clone or download this starter project to your machine.
 1. Download and install Unity via [Unity Hub](https://unity3d.com/get-unity/download). Vuforia comes bundled with Unity. While it's downloading, continue with this process.
-1. Get a [Vuforia App Licence Key](https://developer.vuforia.com/vui/auth/register) and put it some.
+1. Get a [Vuforia App Licence Key](https://developer.vuforia.com/vui/auth/register) and put it in the "App Licence Key" field under `Vuforia Configuration -> Global`.
 1. Create a new Vuforia "Device" database to hold your tracking images.
 1. Upload the following two target tracking images to your Vuforia database:
   1. [`egg1`](https://github.com/OfferZen-Make/arinsuretech-kicker/blob/master/Assets/egg1.jpeg)
@@ -18,9 +18,9 @@ This is a starter project to [build an augmented reality app with Root insurance
 Watch the [walkthrough screencast](https://drive.google.com/a/fireid.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view) detailing how to set up Unity and Vuforia, or jump to your area of concern:
 
 1. Register for Vuforia [00:15](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=0m15s)
-1. Overview of Unity [01:27]((https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=1m17s))
-1. Activate Vuforia License Key in Unity [02:10]((https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=2m10s))
-1. Turn on Vuforia "AR Support" [02:44]((https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=2m44s))
+1. Overview of Unity [01:27](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=1m17s)
+1. Activate Vuforia License Key in Unity [02:10](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=2m10s)
+1. Turn on Vuforia "AR Support" [02:44](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=2m44s)
 1. Create online Vuforia database and upload image targets [03:36](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=3m36s)
 1. Download the Vuforia database and import it in Unity [06:50](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=6m50s)
 1. Manipulate an `ImageTarget` [07:10](https://drive.google.com/file/d/1J9nmuZbas7Fu9cUyj-eBiqYLIi1205Wq/view?t=7m10s)
