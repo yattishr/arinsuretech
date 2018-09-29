@@ -6,12 +6,12 @@ This is a starter project to [build an augmented reality app with Root insurance
 
 1. Clone or download this starter project to your machine.
 1. Download and install Unity via [Unity Hub](https://unity3d.com/get-unity/download). Vuforia comes bundled with Unity. While it's downloading, continue with this process.
-1. Get a [Vuforia App Licence Key](https://developer.vuforia.com/vui/auth/register) and put it in the "App Licence Key" field under `Vuforia Configuration -> Global`.
+1. Get a [Vuforia App Licence Key](https://developer.vuforia.com/vui/auth/register) and put it in the "App Licence Key" field under `Vuforia Configuration -> Global` via the "Window" option in the app toolbar.
 1. Create a new Vuforia "Device" database to hold your tracking images.
 1. Upload the following two target tracking images to your Vuforia database:
    1. [`egg1`](https://github.com/OfferZen-Make/arinsuretech-kicker/blob/master/Assets/egg1.jpeg)
    1. [`egg2`](https://github.com/OfferZen-Make/arinsuretech-kicker/blob/master/Assets/egg2.jpeg)
-1. Download your Vuforia database to a known location.
+1. Download your Vuforia database to a known location and import it into your Unity project.
 
 ## Walkthrough Screencast
 
