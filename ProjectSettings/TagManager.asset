@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - name
+  - 3003G Cellphone & Alcatel 3000 Cellphone
+  - iPhone 7 Plus 128GB LTE
   layers:
   - Default
   - TransparentFX

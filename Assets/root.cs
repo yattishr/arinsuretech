@@ -49,6 +49,7 @@ public class root : MonoBehaviour
 
   public string api_key = "";
   public TextMesh text_mesh;
+    public string cheat_gadget = "";
 
   private void Start()
   {
@@ -58,7 +59,7 @@ public class root : MonoBehaviour
   public void CreateQuote(string gadget) {
     List<Param> parameters = new List<Param>();
     parameters.Add(new Param("type", "root_gadgets"));
-    parameters.Add(new Param("model_name", gadget));
+    parameters.Add(new Param("model_name", cheat_gadget));
 
     StartCoroutine(CallAPICoroutine("https://sandbox.root.co.za/v1/insurance/quotes", parameters));
   }
